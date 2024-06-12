@@ -1,0 +1,31 @@
+{
+  "name": "simple-template",
+  "version": "1.0.2",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "prettier",
+    "eslint",
+    "react-router-dom",
+    "sample-pages",
+    "consola"
+  ],
+  "description": "Custom CRA template with Prettier, ESLint, ReactRouterDom, Consola and sample Pages",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/V01D-PH03N1X/react_template"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/V01D-PH03N1X/react_template.git"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
