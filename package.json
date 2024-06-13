@@ -1,6 +1,6 @@
 {
-  "name": "simple-template",
-  "version": "1.0.2",
+  "name": "cra-template-voidphoenix",
+  "version": "1.0.3",
   "keywords": [
     "react",
     "create-react-app",
@@ -27,5 +27,8 @@
   "files": [
     "template",
     "template.json"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
