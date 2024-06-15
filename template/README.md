@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 And used the following Template [cra-template-voidphoenix](https://www.npmjs.com/package/cra-template-voidphoenix)
 
 ### THERE IS ONE NEW SCRIPT!
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -17,7 +18,9 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### `yarn fix`
+
 This Command let Prettier and ESLint mostly automatically fix any problems.
+
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.\

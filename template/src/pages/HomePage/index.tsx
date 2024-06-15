@@ -4,8 +4,8 @@ import React, { ReactElement } from 'react';
 export default function HomePage(): ReactElement {
   return (
     <div className={'container'}>
-      <h1>Dies ist die Homepage!</h1>
-      <h3>Fühl dich wie Zuhause!</h3>
+      <h1>This is the Homepage!</h1>
+      <h3>Feel right at Home!</h3>
     </div>
   );
 }

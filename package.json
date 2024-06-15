@@ -1,6 +1,6 @@
 {
   "name": "cra-template-voidphoenix",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "keywords": [
     "react",
     "create-react-app",
@@ -15,14 +15,14 @@
   "description": "Custom CRA template with Prettier, ESLint, ReactRouterDom, Consola and sample Pages",
   "repository": {
     "type": "git",
-    "url": "https://github.com/V01D-PH03N1X/react_template"
+    "url": "https://github.com/V01D-PH03N1X/cra-template-voidphoenix"
   },
   "license": "MIT",
   "engines": {
     "node": ">=14"
   },
   "bugs": {
-    "url": "https://github.com/V01D-PH03N1X/react_template.git"
+    "url": "https://github.com/V01D-PH03N1X/cra-template-voidphoenix.git"
   },
   "files": [
     "template",

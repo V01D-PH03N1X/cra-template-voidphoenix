@@ -4,10 +4,10 @@ import React, { ReactElement } from 'react';
 export default function NotFoundPage(): ReactElement {
   return (
     <div className={'container'}>
-      <h1>Huch, was suchst du Hier?</h1>
-      <h3>Ich konnte leider nicht finden was du suchst. </h3>
+      <h1>Oops, what are you looking for here?</h1>
+      <h3>Unfortunately, I couldn't find what you were looking for. </h3>
       <h3>
-        Um zurück zur Startseite zu gelangen drücke <a href={'/'}>HIER</a>
+        To return to the homepage press <a href={'/'}>HERE</a>
       </h3>
     </div>
   );
